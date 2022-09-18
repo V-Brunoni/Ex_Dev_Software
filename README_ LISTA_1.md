@@ -1,4 +1,4 @@
-# Ex_Dev_Software
+# Ex_Dev_Software Lista 1
 
 1) Escreva um algoritmo que pergunte quanto o funcionário ganha por hora
 e o número de horas trabalhadas no mês. Calcule e mostre o total do seu
