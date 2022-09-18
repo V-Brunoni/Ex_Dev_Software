@@ -1,4 +1,4 @@
-# Ex_Dev_Software
+# Ex_Dev_Software Lista 3
 
 1) Faça um programa que lê 5 números inteiros do teclado e armazene
 em uma lista ou vetor. Ao final imprima o vetor armazenado na ordem
