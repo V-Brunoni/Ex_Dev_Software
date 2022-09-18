@@ -1,3 +1,6 @@
+//4) Leia o nome e 3 notas de um aluno. Se obtiver média maior que 7 exibir a mensagem de aprovado, se ficar entre 5 e 7, exibir a mensagem em exame, e
+//se for abaixo disso, exibir reprovado. Lembrando que terá que exibir o nome do aluno também.
+
 package Lista_1;
 
 import java.util.Scanner;
