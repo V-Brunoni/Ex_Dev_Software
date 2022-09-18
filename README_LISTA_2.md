@@ -1,4 +1,4 @@
-# Ex_Dev_Software
+# Ex_Dev_Software Lista 2
 
 1) Leia um número e exiba o seu sucessor.
 
