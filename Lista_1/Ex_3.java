@@ -1,3 +1,5 @@
+//3) Crie um algoritmo que imprima o gênero de uma pessoa utilizando como valores de entrada M ou F.
+
 package Lista_1;
 
 import java.util.Scanner;
