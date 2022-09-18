@@ -1,3 +1,10 @@
+1) Escreva um algoritmo que pergunte quanto o funcionário ganha por hora
+e o número de horas trabalhadas no mês. Calcule e mostre o total do seu
+salário no referido mês.
+
+
+
+
 package Lista_1;
 
 import java.util.Scanner;
